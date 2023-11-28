@@ -1,0 +1,3 @@
+[submodule "fantasy-core"]
+	path = fantasy-core
+	url = https://github.com/BenDol/fantasy-core-bug
